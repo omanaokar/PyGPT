@@ -4,6 +4,7 @@
 # Ignore repositories
 repos/
 repos_test/
+python_code_text_data.txt
 
 # Ignore sensitive token file
 token.txt
