@@ -5,6 +5,7 @@
 repos/
 repos_test/
 python_code_text_data.txt
+tokenizer/
 
 # Ignore sensitive token file
 token.txt
